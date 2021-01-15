@@ -25,16 +25,16 @@ do{
   console.log(x);
 }while(x<100)
  //For...in LOOP
-  var cars = ['jaguar', 'Tesla', 'BMW', ' Audi'];
+  var cars = ['jaguar', 'Tesla', 'BMW', 'Audi'];
             for(const i in cars){
-               document.write(i +" => " + carss[i]);   
+               document.write(i +" => " + cars[i]);   
                document.write("</br>");
             }
             document.write("</br>");
 
 // For...Of LOOP
-var fruits = ['apple', 'grapes', 'orange', 'banana'];
-            for(const i of fruits){
+var cars = ['jaguar', 'Tesla', 'BMW', 'Audi'];
+            for(const i of cars){
                document.write(i);   
                document.write("</br>");
             }
