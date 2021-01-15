@@ -33,12 +33,12 @@ do{
             document.write("</br>");
 
 // For...Of LOOP
-var cars = ['jaguar', 'Tesla', 'BMW', 'Audi'];
+var cars = ['jaguar', 'Tesla', 'Jeep', 'Audi'];
             for(const i of cars){
                document.write(i);   
                document.write("</br>");
             }
-            document.write("</br>");
+            document.write("<br>");
  </script>
     </body>
 </html>
