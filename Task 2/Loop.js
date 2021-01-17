@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>Task 2</title>
-  </head>
-  <body>
-<script type = "text/javascript">
+
   //For LOOP
 for(var i=0; i<=10; ++i){
   console.log(i);
@@ -39,6 +31,4 @@ var cars = ['jaguar', 'Tesla', 'Jeep', 'Audi'];
                document.write("</br>");
             }
             document.write("<br>");
- </script>
-    </body>
-</html>
+ 
